@@ -1,2 +1,4 @@
 Initial content for force test
 Amended content for force test
+Another local change before lease test
+Rewritten local change for lease test
